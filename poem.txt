@@ -1,5 +1,6 @@
 The Rainbow
 red
 blue
+green
 black
 these are the color 
